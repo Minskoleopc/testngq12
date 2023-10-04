@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.test5">
+      <class name="testNg3.day2c">
         <methods>
-          <include name="testTwo"/>
-          <include name="testOne"/>
-          <include name="OpenBroweser"/>
-          <include name="CloseBroswe"/>
+          <include name="validateLoginonFailuser"/>
+          <include name="BroswerClose"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- testng.test5 -->
+      </class> <!-- testNg3.day2c -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

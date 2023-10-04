@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-01T19:03:53 PDT" name="Default suite" finished-at="2023-10-01T19:04:04 PDT" duration-ms="11189">
+  <suite started-at="2023-10-04T09:35:28 PDT" name="Default suite" finished-at="2023-10-04T09:35:35 PDT" duration-ms="6032">
     <groups>
     </groups>
-    <test started-at="2023-10-01T19:03:53 PDT" name="Default test" finished-at="2023-10-01T19:04:04 PDT" duration-ms="11189">
-      <class name="testng.test5">
-        <test-method is-config="true" signature="OpenBroweser()[pri:0, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:03:53 PDT" name="OpenBroweser" finished-at="2023-10-01T19:03:59 PDT" duration-ms="6467" status="PASS">
+    <test started-at="2023-10-04T09:35:28 PDT" name="Default test" finished-at="2023-10-04T09:35:35 PDT" duration-ms="6032">
+      <class name="testNg3.day2c">
+        <test-method is-config="true" signature="login()[pri:0, instance:testNg3.day2c@4d5650ae]" started-at="2023-10-04T09:35:29 PDT" name="login" finished-at="2023-10-04T09:35:33 PDT" duration-ms="4505" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- OpenBroweser -->
-        <test-method signature="testOne()[pri:1, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:03:59 PDT" name="testOne" description="login functionality" finished-at="2023-10-01T19:03:59 PDT" duration-ms="43" status="PASS">
+        </test-method> <!-- login -->
+        <test-method signature="validateLoginonFailuser()[pri:0, instance:testNg3.day2c@4d5650ae]" started-at="2023-10-04T09:35:33 PDT" name="validateLoginonFailuser" finished-at="2023-10-04T09:35:34 PDT" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testOne -->
-        <test-method is-config="true" signature="CloseBroswe()[pri:0, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:03:59 PDT" name="CloseBroswe" finished-at="2023-10-01T19:04:00 PDT" duration-ms="683" status="PASS">
+        </test-method> <!-- validateLoginonFailuser -->
+        <test-method is-config="true" signature="BroswerClose()[pri:0, instance:testNg3.day2c@4d5650ae]" started-at="2023-10-04T09:35:34 PDT" name="BroswerClose" finished-at="2023-10-04T09:35:34 PDT" duration-ms="746" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CloseBroswe -->
-        <test-method is-config="true" signature="OpenBroweser()[pri:0, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:04:00 PDT" name="OpenBroweser" finished-at="2023-10-01T19:04:03 PDT" duration-ms="3284" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- OpenBroweser -->
-        <test-method signature="testTwo()[pri:2, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:04:03 PDT" name="testTwo" description="validate the home page url" finished-at="2023-10-01T19:04:03 PDT" duration-ms="25" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTwo -->
-        <test-method is-config="true" signature="CloseBroswe()[pri:0, instance:testng.test5@7d4f9aae]" started-at="2023-10-01T19:04:03 PDT" name="CloseBroswe" finished-at="2023-10-01T19:04:04 PDT" duration-ms="575" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseBroswe -->
-      </class> <!-- testng.test5 -->
+        </test-method> <!-- BroswerClose -->
+      </class> <!-- testNg3.day2c -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
