@@ -72,10 +72,7 @@ public class testSuiteTwo {
 	}
 	
 	
-	
-	
-	
-	
+
 	@AfterMethod
 	public void closeBroser() {
 		//driver.close();
