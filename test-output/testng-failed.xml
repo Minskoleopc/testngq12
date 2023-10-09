@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.test13">
+      <class name="testNg3.day5">
         <methods>
-          <include name="addToCart"/>
-          <include name="login"/>
-          <include name="search"/>
+          <include name="login" invocation-numbers="1"/>
         </methods>
-      </class> <!-- testng.test13 -->
+      </class> <!-- testNg3.day5 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
