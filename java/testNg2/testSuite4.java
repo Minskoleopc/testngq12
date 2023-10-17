@@ -55,6 +55,42 @@ public class testSuite4 {
 	}
 	
 	
+	//testNg 
+	//Testcase 
+	//annotations 
+	//assertion 
+	//xml 
+	//parameters
+	//data 
+	//hard assertion and softassertion 
+	//groups
+	//dependsOn 
+	
+	
+	// property files 
+	// actions class 
+	// drop and auto- select 
+	// calender 
+	// iframe 
+	// webElement methods 
+	// webdriver methods 
+	// alerts 
+	// js Executor 
+	// windowHandles
+	// wait
+	// tables 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	

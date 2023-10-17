@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-11T08:56:49 PDT" name="Default suite" finished-at="2023-10-11T08:56:57 PDT" duration-ms="8005">
+  <suite started-at="2023-10-13T09:01:26 PDT" name="Default suite" finished-at="2023-10-13T09:01:33 PDT" duration-ms="6652">
     <groups>
     </groups>
-    <test started-at="2023-10-11T08:56:49 PDT" name="Default test" finished-at="2023-10-11T08:56:57 PDT" duration-ms="8005">
-      <class name="testNg2.testSuite4">
-        <test-method signature="IframeTestCase2()[pri:0, instance:testNg2.testSuite4@3f6f6701]" started-at="2023-10-11T08:56:49 PDT" name="IframeTestCase2" finished-at="2023-10-11T08:56:57 PDT" duration-ms="7880" status="PASS">
+    <test started-at="2023-10-13T09:01:26 PDT" name="Default test" finished-at="2023-10-13T09:01:33 PDT" duration-ms="6652">
+      <class name="testng.testSuite4">
+        <test-method signature="datePicker()[pri:0, instance:testng.testSuite4@73e9cf30]" started-at="2023-10-13T09:01:27 PDT" name="datePicker" finished-at="2023-10-13T09:01:33 PDT" duration-ms="6545" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- IframeTestCase2 -->
-      </class> <!-- testNg2.testSuite4 -->
+        </test-method> <!-- datePicker -->
+      </class> <!-- testng.testSuite4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
